@@ -2,9 +2,18 @@
 
 An example answer of the "closed_range" problem provided in the t_wada san's TDD workshop.
 
-[The TDD problem(`Attribution-ShareAlike 2.1 Japan `)](https://gist.github.com/twada/75fb219c8cc180e9de166d8a58e877b0)
+## Problem
 
-WIP
+[closed_range.md](https://gist.github.com/twada/75fb219c8cc180e9de166d8a58e877b0)
+
+**Reference** 
+- Licence: [Attribution-ShareAlike 2.1 Japan](https://creativecommons.org/licenses/by-sa/2.1/jp/)
+- Owner: [twada](https://gist.github.com/twada)
+- Title: 整数の閉区間
+
+![banner](https://github.com/ababa893/tdd_workshop/blob/image/687474703a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792d73612f322e312f6a702f38387833312e706e67.png "License")
+
+
 
 ## Structure
 
@@ -17,15 +26,13 @@ WIP
 
 ## How to use
 
-- Test code is written in Python3
+- The test code `test_closed_range.py` is written in Python3
 - **Pytest** is needed to run the code.
 
-You can execute the test code:
+You can execute the code:
 `$ pytest test_closed_range.py`
 
-If you want to know detail results:
-
-e.g.
+If you want to know detailed results, for example:
 
 `$ pytest -vv -s test_closed_range.py`
 
