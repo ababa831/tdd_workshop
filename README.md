@@ -22,15 +22,13 @@ An example answer of the "closed_range" problem provided in the t_wada san's TDD
 
 ## How to use
 
-- Test code is written in Python3
+- The test code `test_closed_range.py` is written in Python3
 - **Pytest** is needed to run the code.
 
-You can execute the test code:
+You can execute the code:
 `$ pytest test_closed_range.py`
 
-If you want to know detailed results:
-
-e.g.
+If you want to know detailed results, for example:
 
 `$ pytest -vv -s test_closed_range.py`
 
