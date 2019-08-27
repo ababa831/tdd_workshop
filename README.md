@@ -5,11 +5,12 @@ An example answer of the "closed_range" problem provided in the t_wada san's TDD
 ## Problem
 
 **Reference** 
-- Licence: `Attribution-ShareAlike 2.1 Japan `
+- Licence: [Attribution-ShareAlike 2.1 Japan](https://creativecommons.org/licenses/by-sa/2.1/jp/)
 - Owner: [twada](https://gist.github.com/twada)
 - Title: 整数の閉区間
 
 ![banner](https://github.com/ababa893/tdd_workshop/blob/image/687474703a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792d73612f322e312f6a702f38387833312e706e67.png "License")
+
 
 
 ## Structure
