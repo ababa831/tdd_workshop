@@ -2,9 +2,10 @@
 
 An example answer of the "closed_range" problem provided in the t_wada san's TDD workshop.
 
-## [The TDD problem(`Attribution-ShareAlike 2.1 Japan `)](https://gist.github.com/twada/75fb219c8cc180e9de166d8a58e877b0)
+## Problem
 
 **Reference** 
+- Licence: `Attribution-ShareAlike 2.1 Japan `
 - Owner:[twada](https://gist.github.com/twada)
 - Title: 整数の閉区間
 
